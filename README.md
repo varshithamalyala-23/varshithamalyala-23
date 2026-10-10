@@ -10,7 +10,7 @@
 
 ---
 
-## `$ whoami`
+## `$ Who Am I?`
 
 Hey! I'm **Varshitha Reddy**, a B.Tech Computer Science student interested in programming, problem-solving, and building practical projects.
 
